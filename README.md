@@ -15,8 +15,7 @@ This repository contains both manual and automated test cases developed as part 
 ## Files
 
 1. `Gmail_Compose_Test_Cases.xlsx` - Manual test cases for Gmail's compose function, with both traditional and BDD-style test cases.
-2. `Refined_Gmail_Compose_Test_Cases.xlsx` - A refined version of Gmail compose test cases with enhanced accuracy.
-3. `Magento_Signup_Automation` - Folder containing automated test scripts for Magento signup and login processes.
+2. `Magento_Signup_Automation` - Folder containing automated test scripts for Magento signup and login processes.
 
 ## Tools and Technologies
 
@@ -27,20 +26,6 @@ This repository contains both manual and automated test cases developed as part 
     - Java/Python as the scripting language (choose based on your setup).
     - Git for version control.
 
-## Getting Started
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/username/Incubyte_Test_Assessment.git
-    cd Incubyte_Test_Assessment
-    ```
-
-2. Open the `Gmail_Compose_Test_Cases.xlsx` or `Refined_Gmail_Compose_Test_Cases.xlsx` files to view manual test cases.
-
-3. For automation:
-    - Ensure Selenium WebDriver and the required libraries are installed.
-    - Navigate to the `Magento_Signup_Automation` folder.
-    - Run test scripts using your preferred IDE or command line.
 
 ## Folder Structure
 
